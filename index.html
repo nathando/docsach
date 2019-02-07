@@ -1,0 +1,50 @@
+---
+layout: home
+---
+
+<!-- brief intro -->
+<div>
+  <img class="site-icon" src="{{site.icon}}"/>
+</div>
+<div class="site-intro">
+  {{ site.intro }}
+</div>
+<!-- posts -->
+<div class="posts">
+  {% for post in site.posts %}
+    {% capture index %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if index=='odd' %}
+    <div class="grid-x">
+    {% endif %}
+      <div class="medium-6 {{index}}">
+        {% include post-summary.html %}
+      </div>
+    {% if index=='even' or forloop.index==forloop.length  %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+
+{% if paginator.total_pages>1 %}
+  <nav class="pagination-wrapper" aria-label="Pagination">
+    <ul class="pagination">
+
+      {% if paginator.previous_page %}
+      <li class="pagination-previous">
+        <a href="{{ paginator.previous_page_path }}" class="previous"></a>
+      </li>
+      {% endif %}
+      <li class="current"><span>{{paginator.page}}</span></li>
+      {% if paginator.total_pages>3 %}
+      <li class="ellipsis" aria-hidden="true"></li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="pagination-next">
+        <a href="{{ paginator.next_page_path }}" class="next"></a>
+      </li>
+      {% endif %}
+    </ul>
+  </nav>
+{% endif %}
