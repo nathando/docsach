@@ -258,6 +258,11 @@ nav {
   img {
     box-shadow: 0 0 5px #333;
     border: 1px solid white;
+    width: 100%;
+    height: auto;
+  }
+  @include mobile {
+    margin-top: 30px;
   }
 }
 .tag-page {
@@ -390,6 +395,48 @@ font-size: 15px;
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+// quotes
+
+blockquote {
+  >p {
+    font-size: 1.2em;
+    quotes: "\201C""\201D""\2018""\2019";
+    padding: 10px 20px;
+    line-height: 1.4;
+    color: black;
+    margin: 0;
+  }
+  footer{
+    margin:0;
+    padding:0;
+    text-align: right;
+    font-size: 1.1em;
+    font-style: italic;
+  }
+  >p::before {
+    content: open-quote;
+    display: inline;
+    height: 0;
+    line-height: 0;
+    left: -10px;
+    position: relative;
+    top: 20px;
+    color: black;
+    font-size: 2.5em;
+  }
+  >p::after {
+    content: close-quote;
+    display: inline;
+    height: 0;
+    line-height: 0;
+    left: 10px;
+    position: relative;
+    top: 25px;
+    color: black;
+    font-size: 2.5em;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
