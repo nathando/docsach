@@ -252,6 +252,9 @@ nav {
 .callout {
   border-radius: 5px;
 }
+.post-image {
+  box-shadow: 0 0 5px #333;
+}
 .post-img {
   margin-right: 15px;
   margin-left: 15px;
@@ -302,14 +305,10 @@ nav {
 }
 
 .post {
-  img {width: 100%;}
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   .comments {
     margin-top: 10px;
@@ -400,6 +399,13 @@ footer {
 // quotes
 
 blockquote {
+  padding-left: 20px;
+  border-left: 2px solid $gray;
+  margin-left: 10px;
+  @include mobile() {
+    margin-left: 5px;
+    padding-left: 10px;
+  }
   >p {
     font-size: 1.2em;
     quotes: "\201C""\201D""\2018""\2019";
