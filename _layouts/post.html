@@ -3,7 +3,7 @@ layout: default
 comments: true
 ---
 
-<article class="post post-detail">
+<article class="post post-detail {% if page.tags contains "vietnamese" %}vn{%endif%}">
   <h1 class="post-title">{{ page.title }}</h1>
   <hr class="post-title-sep">
   {% if page.image%}

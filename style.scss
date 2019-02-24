@@ -313,6 +313,9 @@ nav {
   .comments {
     margin-top: 10px;
   }
+  &.vn {
+    font-family: $sourcesans;
+  }
 
 }
 .page-title,
@@ -443,6 +446,14 @@ blockquote {
     color: black;
     font-size: 2.5em;
   }
+}
+
+#main-intro {
+  margin: 0;
+}
+
+table {
+  border: 1px solid #999;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
