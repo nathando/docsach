@@ -285,6 +285,9 @@ nav {
   .entry {
     font-size: 14px;
   }
+  .vn .entry {
+    font-size: 13px;
+  }
   .post-sep {
     border-bottom: 1px solid #fbefe2;
   }
@@ -454,6 +457,7 @@ blockquote {
   background: white;
   padding: 50px;
   min-height: 100%;
+  max-width: 700px;
   @include mobile {
     padding: 15px;
   }
@@ -468,6 +472,14 @@ blockquote {
 
 table {
   border: 1px solid #999;
+}
+.book-panel {
+  margin: 15px;
+  padding: 20px;
+  background: #fdfdfd;
+  box-shadow: 0 0 3px #555;
+  border-radius: 5px;
+  color: black;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

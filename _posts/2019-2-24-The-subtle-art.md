@@ -4,6 +4,15 @@ title: The Subtle Art of Not Giving a Fck
 image: /images/posts/subtle-art.jpg
 tags: ["english"]
 ---
+## Introduction:
+If there are two most important things I've got from this book, those will be:
+- **Choose to be responsible for things that happened in your life** regardless of whether or not you are the cause of it.
+- **Action isn't just the effect of motivation, it's also the cause of it**. So not only motivation -> action but also action -> motivation
+
+From my personal experience, these two key ideas switch your brain from going on defense to offense.  
+It stops you from waiting for the **right moment**, **right condition** to act. Rather just act, make mistakes and move on.
+And that idea alone is already a very powerful concept.
+
 ## Book Summary  
 
 <h3><a data-toggle="#section1" class="title-link toggler">Chapter 1: Don't try</a></h3>
@@ -174,11 +183,3 @@ The last two chapters of the book, the author explains more why filtering out th
 Also what is the drives behind that makes us give too many fucks unecessarily.
 
 <hr/>
-## Lazy writer's notes:
-If there are two most important things I've got from this book, those will be:
-- **Choose to be responsible for things that happened in your life** regardless of whether or not you are the cause of it.
-- **Action isn't just the effect of motivation, it's also the cause of it**. So not only motivation -> action but also action -> motivation
-
-From my personal experience, these two key ideas switch your brain from going on defense to offense.  
-It stops you from waiting for the **right moment**, **right condition** to act. Rather just act, make mistakes and move on.
-And that idea alone is already a very powerful concept.

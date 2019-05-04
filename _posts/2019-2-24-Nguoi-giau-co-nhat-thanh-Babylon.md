@@ -5,8 +5,7 @@ image: /images/posts/richest-babylon-vn.jpg
 tags: ["vietnamese"]
 ---
 
-## Nhận xét
-
+## Giới thiệu
 Đây là một cuốn sách vừa hay lại súc tích dễ nhớ và áp dụng. Những ý tưởng giúp bạn giữ tiền, đầu tư và làm giàu được lồng khéo léo vào những cậu chuyện từa tựa nghìn lẻ một đêm. Giá lúc trước khi đi làm, mình đọc được cuốn sách này thì có thể đã tiết kiệm được nhiều thời gian và tiền bạc sớm hơn. 
 
 Nhưng dù sao, đọc sách này thì lúc nào cũng không muộn. Cho đến hiện nay, hầu hết trong các trường học đều không dạy những thứ thế này (càng hiếm nếu bạn ở Việt Nam). **Theo mình, đây là cuốn mà ai cũng nên đọc, càng khó khăn về tài chính thì càng nên đọc.**
@@ -64,6 +63,7 @@ Kinh nghiệm của ông Arkar trong những lần đầu tư thất bại đầ
 **Nhận xét:** **An toàn** được nhấn mạnh trước vì nó quan trọng hơn. Chỉ đầu tư với mức độ rủi ro có thể chấp nhận được vì mất vốn thì cả những phần lãi suất thêm đều không còn ý nghĩa
 
 ### 5. Quyết tâm sở hữu 1 ngôi nhà  
+Arkar nói đến một nghịch lý khi hầu hết dân cư ở Babylon, không có nhà, phải trả tiền thuê nhà rất cao nhưng điều kiện ở lại không hề rộng rãi và sạch sẽ.
 <div class="grid-container" style="padding-left:0">
 <div class="grid-x">
 <div class="medium-9" markdown="1">  
@@ -94,13 +94,47 @@ Thông thường, cuộc đời của mỗi người đều phải trải qua c�
 </div>
 </div>
  
-### 7. Tăng cường khả năng kiếm tiền  
+### 7. Tăng cường khả năng kiếm tiền 
+Arkar kể về một chàng thanh niên trước đây hay tìm đến ông để vay tiền. Khi ông bảo chàng thanh niên phải cố gắng kiếm nhiều tiền hơn. Anh ta than phiền rằng trong hai tháng đã xin tăng lương đến 6 lần nhưng chủ không chịu. Arkar nhấn mạnh việc phải cải thiện bản thân thì mới tăng cường được khả năng kiếm tiền  
 > Dù làm bất cứ việc gì, các bạn cũng cần phải luôn luôn tìm cách trau dồi, nâng cao các kỹ năng nghề nghiệp của mình.   
 
 **Nhận xét:**  Đây là cũng một phương thức quan trọng. Đó là đầu tư vào phát triển bản thân. Mình lại dẫn Jim Rohn:  
->  The only way it gets better for you is when you get better. Better is not something you wish, it’s something you become.
-> (Dịch) Cách duy nhất để mọi thứ trở nên tốt hơn cho bạn là bạn trở nên tốt hơn. Tốt hơn không mong muốn là được, mà tốt hơn là thứ bạn (phải thay đổi để) trở thành
+> Life was not designed to give us what we need. Life was designed to give us what we deserve
+> (Dịch) Cuộc sống không được thiết kế ra để cho chúng ta điều chúng ta cần, cuộc sống được thiết kế để cho chúng ta điều chúng ta xứng đáng được hưởng
 > <footer>Jim Rohn</footer>  
 
-Còn tiếp ...
+<hr/>
+## Gặp gỡ Nữ thần May Mắn  
+Sau 7 ngày được Arkar dạy, lớp học tiếp tục bàn bạc những vấn đề về tiền bạc và làm giàu. Chủ đề hôm đó là làm thế nào để được may mắn.
+Lúc đầu mọi người hiểu may mắn theo nghĩa cờ bạc đỏ đen hay nhặt được của rơi ngoài đường. Arkar lý giải những trò đỏ đen hay những việc tình cờ như vậy là may mắn nhưng không hề giúp ích gì cho việc học làm giàu. Vì cờ bạc mà giàu thì cũng có thể phải cháy túi trước.  
 
+![Luck](/images/posts/babylon/luck.jpg) 
+
+Cái may mắn chúng ta nên quan tâm tới nó chỉ đến cho những người chuẩn bị đón nhận nó. Những may mắn này là những cơ hội làm ăn tình cờ chúng ta biết được và khi chắc chắn mà tiếp tục trì hoãn thì sẽ bỏ lỡ cơ hội. Sách đưa 2 câu chuyện làm ví dụ:  
+- Một nhóm người đầu tư vào 1 mảnh đất khô cằn, đào kênh dẫn nước vào và chia ra cho người khác thuê lại để ở hoặc làm vườn. Người kể chuyện đã do dự và bỏ lỡ cơ hội. Sau đó không lâu khoản đầu tư tăng hơn mười mấy lần.  
+- Một người thu mua gia súc gặp một người bán đàn cừu của ông ta gấp để trở về gặp vợ bệnh nặng. Tuy nhiên vì trời tối, không đếm được chính xác số cừu, ông này đã quyết định không mua dù người bán chỉ mong nhận trước 2/3 số tiền.  
+
+<hr/>
+## Năm quy luật của vàng  
+Con trai của ông Arkar là Nomasir nhận phải thử thách của cha trước khi ông Arkar chịu giao tài sản cho cai quản. Arkar cho con trai mình mười năm thử thách, lên đường chỉ với 2 thứ:  
+- Một túi vàng, nếu biết làm giàu thì chỉ nhiêu đây sẽ đủ
+- Tấm thẻ đất sét có 5 quy luật về vàng
+
+Mười năm sau, Nomasir thành công trở về nhưng túi vàng không hề giúp anh mà chính là tấm thẻ đất sét. Sau đây là 5 quy luật của vàng.
+
+<div class="book-panel clay" markdown="1">
+<h2 class="text-center">Năm quy luật của vàng</h2>
+1. Đối với những người **sẵn sàng dành ra 1/10 số tiền kiếm được để tích luỹ cho riêng mình** trong tương lai, thì **vàng sẽ đến** và đến với số lượng ngày càng nhiều  
+
+2. **Vàng là người làm công cần mẫn và nhiệt tình nhất** đối với những người chủ khôn ngoan biết nhận ra khả năng sinh lợi và phát triển của nó  
+
+3. Vàng luôn luôn trung thành và đem lại lợi nhuận cho những người chủ thận trọng **đầu tư theo lời khuyên của những người khôn ngoan**  
+
+4. Đối với những vụ đầu tư kinh doanh mà **bản thân mình chưa nắm rõ hoặc không được người giàu kinh nghiệm chỉ bảo** thì rất dễ bị mất vàng  
+
+5. **Nếu dùng vàng để kiếm lợi một cách phi pháp** hoặc làm theo những lời khuyên không đúng, lừa đảo hay phó thác cho nó những kinh nghiệm yếu kém thì **rất dễ thất bại và mất sạch vàng**
+</div>
+
+**Nhận xét:** Thực ra những điều này khá đơn giản, dễ hiểu. Nếu bạn đọc sách thì câu chuyện thú vị của Nomasir có thể giúp bạn hiểu sâu hơn những điều trên là thế nào trong thực tế.
+
+## Người cho vay vàng ở vương quốc Babylon  
